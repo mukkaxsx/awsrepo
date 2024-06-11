@@ -13,6 +13,7 @@ sudo ./install auto
 sudo yum install -y python-pip
 sudo pip install awscli
 sudo amazon-linux-extras install java-openjdk11
+sudo yum install java-1.8.0-openjdk -y
 ```
 
 #### CodePipeline
